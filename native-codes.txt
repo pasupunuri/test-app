@@ -1,0 +1,6 @@
+https://github.com/react-native-svg/react-native-svg
+https://reactnavigation.org/docs/getting-started/
+https://github.com/react-native-async-storage/async-storage
+https://github.com/oblador/react-native-vector-icons ( https://stackoverflow.com/questions/59007640/build-failing-for-react-native-ios-multiple-commands-produce-error)
+
+https://docs.expo.dev/bare/installing-expo-modules/ - (expo)
